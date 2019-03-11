@@ -9,8 +9,7 @@
 
 ## Introduction
 
-Knowing what web programming is and how its elements work together conceptually
-is an essential first step, but in order to help orient our upcoming lessons,
+Knowing what web programming is and how its elements work together conceptually is an essential first step, but in order to help orient our upcoming lessons,
 let's see it in action. In this lesson we've provided you a simple social media
 application called "Simple Liker." You'll see several posts which can be "liked"
 by clicking on the heart...well, they _could_ be if the critical code hadn't
